@@ -1,1 +1,1 @@
-# newstock
+# A convenient searcher
